@@ -1,4 +1,4 @@
-## Designing for users of screen readers 給螢幕閱讀器使用者的設計
+## Designing for users of screen readers 為了螢幕閱讀器使用者而做的設計
 
 ### Do...
 
@@ -13,7 +13,7 @@
 * 提供圖片的描述以及影片的字幕
 * 製作一個線性、且有邏輯的版面佈局
 * 使用 HTML5 的段落架構元素
-* 提供僅供鍵盤操作的介面
+* 提供僅使用鍵盤也能操作的介面
 * 製作具有描述的連結或標題
 
 ### Don’t...
