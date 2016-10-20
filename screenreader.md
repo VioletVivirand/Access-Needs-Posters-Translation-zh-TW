@@ -1,4 +1,4 @@
-## Designing for users of screen readers
+## Designing for users of screen readers 給螢幕閱讀器使用者的設計
 
 ### Do...
 
@@ -8,6 +8,14 @@
 * build for keyboard use only
 * write descriptive links and headings
 
+### 請這樣做...
+
+* 提供圖片的描述以及影片的字幕
+* 製作一個線性、且有邏輯的版面佈局
+* 使用 HTML5 的段落架構元素
+* 提供僅供鍵盤操作的介面
+* 製作具有描述的連結或標題
+
 ### Don’t...
 
 * only show information in an image or video
@@ -15,3 +23,11 @@
 * rely on text size and placement for structure
 * force mouse or screen use
 * write uninformative links and headings
+
+### 請別這樣做...
+
+* 只在圖片或影片裡顯示資訊
+* 將內容雜亂地散布在整個頁面中
+* 依賴文字大小跟位置來區分不同段落架構
+* 僅提供使用滑鼠或螢幕操作的介面
+* 製作不具有描述的連結或標題
