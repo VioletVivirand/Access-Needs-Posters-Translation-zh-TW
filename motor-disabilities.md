@@ -1,4 +1,4 @@
-## Designing for users with physical or motor disabilities 為了肢體障礙使用者而做的設計
+## Designing for users with physical or motor disabilities 設計給患有肢體障礙的使用者
 
 ### Do...
 
@@ -11,11 +11,11 @@
     * Postcode
     * Find address
 
-### 請這樣做...
+### 請這樣做…
 
-* 製作大型且可以點擊的功能
+* 製作大尺寸且可以點選的功能
     * 是
-* 保留表格元件之間的間距
+* 預留表格元件之間的間距
 * 設計可以僅使用鍵盤或語音操作
 * 以行動裝置或是觸控螢幕作為設計考量
 * 提供簡易操作功能
@@ -33,7 +33,7 @@
 * tire users with lots of typing and scrolling
     * Address
 
-### 請別這樣做...
+### 請別這樣做…
 
 * 需要精準點選的功能
     * 不
