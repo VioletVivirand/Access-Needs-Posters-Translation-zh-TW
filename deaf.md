@@ -3,7 +3,6 @@
 ### Do...
 
 * write in plain English
-    * Do this.
 * use subtitles or provide transcripts for videos
 * use a linear, logical layout
 * break up content with sub-headings, images and videos
@@ -11,7 +10,7 @@
 
 ### 請這樣做...
 
-* 使用白話文來寫作 <!-- 要附註非英語國家的話，就不限於使用英語 -->
+* 使用白話文來寫作 <!-- 註：對於不使用英語為母語的國家，就不限於使用英語 -->
 * 提供圖片的描述以及影片的字幕
 * 製作一個線性、且有邏輯的版面佈局
 * 把內容用不同的標題、圖片或影片來區隔開來
@@ -30,6 +29,6 @@
 * 使用複雜的字詞或是修辭
 * 只在音訊或影片裡顯示資訊
 * 製作複雜的版面佈局或是選單
-* 讓使用者閱讀佔據很大篇幅的內容
-* 千萬別把電話當作唯一的溝通管道
+* 讓使用者閱讀過度冗長的內容
+* 千萬別把電話當作唯一的聯絡管道
 
